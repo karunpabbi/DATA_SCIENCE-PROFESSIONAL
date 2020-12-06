@@ -1,12 +1,11 @@
 # DATA_SCIENCE-PROFESSIONAL
 
-BRANCHES
-|
-|
----- DATASETS
-|
-|
----- PRACTICE NOTEBOOKS
-|
-|
----- PROJECTS
+BRANCHES<br />
+|<br />
+|<br />
+---- DATASETS<br />
+|<br />
+|<br />
+---- PRACTICE NOTEBOOKS<br />
+|<br />
+---- PROJECTS<br />
