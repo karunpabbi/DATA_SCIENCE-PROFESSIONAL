@@ -1,6 +1,6 @@
 # DATA_SCIENCE-PROFESSIONAL
 
-BRANCHES<br />
+STRUCTURE<br />
 |<br />
 |<br />
 ---- DATASETS<br />
